@@ -20,7 +20,7 @@ I'm focused on transforming data into actionable insights and building real-worl
 
 ### 1️⃣ Customer Data ETL Pipeline for Personalized Marketing
 **Technologies:** Python, Pandas, ETL, API Integration  
-🔗 Repository: [View Project]([LINK_HERE](https://github.com/amandajbatista7-design/AI_marketing_ETL_pipeline))
+🔗 Repository: [View Project](https://github.com/amandajbatista7-design/AI_marketing_ETL_pipeline)
 
 - Built an end-to-end ETL pipeline to process customer data.
 - Applied data cleaning, validation, and masking techniques.
@@ -31,7 +31,7 @@ I'm focused on transforming data into actionable insights and building real-worl
 
 ### 2️⃣ Sales Dashboard in Excel
 **Technologies:** Excel, Power Query, Data Visualization  
-🔗 Repository: [[View Project](.(https://github.com/amandajbatista7-design/xbox-subscription-dashboard))]
+🔗 Repository: [View Project](https://github.com/amandajbatista7-design/xbox-subscription-dashboard)
 
 - Created an interactive dashboard to analyze sales performance.
 - Automated data transformation using Power Query.
@@ -41,7 +41,7 @@ I'm focused on transforming data into actionable insights and building real-worl
 
 ### 3️⃣ AWS Data Architecture Proposal
 **Technologies:** AWS (conceptual), Data Architecture  
-🔗 Repository: [View Project]([LINK_HERE](https://github.com/amandajbatista7-design/aws-proposta-implementacao))
+🔗 Repository: [View Project](https://github.com/amandajbatista7-design/aws-proposta-implementacao)
 
 - Designed a proposal for implementing three AWS data services.
 - Focused on scalability, cost efficiency, and data workflows.
