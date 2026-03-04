@@ -1,45 +1,60 @@
-# 👩‍💻 Amanda Batista — Data Analyst Portfolio
+# 👩‍💻 Amanda Batista — Data Analyst | Business Analyst
 
-Hi! I'm Amanda Batista, a Junior Data Analyst with hands-on experience in Python, SQL, Excel, and Power BI.  
-I specialize in transforming raw data into actionable insights and building end-to-end data solutions inspired by real-world business scenarios.
+Hi! I'm Amanda Batista, a Data Analyst / Business Analyst focused on transforming complex datasets into structured insights that support business and operational decision-making.
+I develop end-to-end analytics projects inspired by real-world business challenges, especially in tech, SaaS, and AI-driven environments.
 
-🌍 Brazil | Open to remote and international opportunities  
+🌍 Based in Brazil | Open to remote and international opportunities (relocation available) 
 
 ---
 
-## 🚀 Profile Summary
+## 🚀 Professional Profile
 
-- Career-switching Data Analyst with a strong foundation in data analysis, ETL processes, and business intelligence.
-- Experience working with structured datasets, data validation, and exploratory data analysis (EDA).
-- Background in public-sector data and interdisciplinary academic training, bringing analytical thinking and problem-solving skills to data projects.
-- Motivated to grow in analytical and technical roles in global environments.
+Data-driven professional with experience in analytics, data validation, and business problem structuring.
+My background includes large-scale public-sector datasets and interdisciplinary academic training, combined with portfolio projects that simulate real corporate scenarios — including SaaS churn analysis, ETL pipelines, BI dashboards, and cloud architecture proposals.
+I work across the full analytics lifecycle:
+- Data extraction and transformation
+- Data cleaning and validation
+- Exploratory data analysis (EDA)
+- KPI definition and performance tracking
+- Business problem structuring and root cause analysis
+- Dashboard development and stakeholder-oriented reporting
 
 ---
 
 ## 🔧 Technical Skills
 
 **Programming & Data**
-- Python (pandas), SQL (PostgreSQL / MySQL), ETL pipelines
+- Python (pandas)
+- SQL (PostgreSQL / MySQL)
+- ETL pipeline development
 
-**Data Analysis**
-- Exploratory Data Analysis (EDA), Data Cleaning, Data Validation, Data Quality
+**Analytics & Business Analysis**
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Data Quality
+- KPI Framework Design
+- Root Cause Analysis
+- Business Requirements Structuring
 
 **BI & Visualization**
-- Power BI, Excel (Power Query, Pivot Tables, KPIs, dashboards)
+- Power BI
+- Excel (Power Query, Pivot Tables, dashboards)
 
 **Tools & Technologies**
-- Git, GitHub, APIs, basic AWS concepts
+- Git & GitHub
+- APIs
+- Basic AWS Concepts
+- Jupyter Notebook
 
 ---
 
 ## 📌 Featured Projects
 
-### 1️⃣ Customer Data ETL Pipeline for Personalized Marketing
+### 1️⃣ AI-Powered Customer Data ETL Pipeline
 **Technologies:** Python, Pandas, ETL, API Integration  
 🔗 Repository: [View Project](https://github.com/amandajbatista7-design/AI_marketing_ETL_pipeline)
 
 **Overview:**  
-Designed and implemented an end-to-end ETL pipeline to simulate a real-world customer data workflow for personalized marketing.
+Designed and implemented an end-to-end ETL pipeline simulating enterprise-level customer data workflows.
 
 **Key Contributions:**
 - Built an automated pipeline to extract, transform, and load customer data from CSV sources.
@@ -49,7 +64,7 @@ Designed and implemented an end-to-end ETL pipeline to simulate a real-world cus
 
 ---
 
-### 2️⃣ Sales Dashboard in Excel
+### 2️⃣ Sales Performance Dashboard
 **Technologies:** Excel, Power Query, Data Visualization  
 🔗 Repository: [View Project](https://github.com/amandajbatista7-design/xbox-subscription-dashboard)
 
@@ -81,16 +96,17 @@ Created a conceptual data architecture proposal using AWS services to support sc
 
 - CS50: Introduction to Computer Science — HarvardX  
 - Data Science with Python — DIO  
-- Power BI for Beginners — Coursera  
-- Excel with Artificial Intelligence — DIO (in progress)
+- Power BI — Coursera  
+- Excel with Artificial Intelligence — DIO
 
 ---
 
 ## 🌱 Currently Developing
 
-- Advanced SQL and data modeling  
-- Portfolio-driven data projects with business focus  
-- Spanish and technical English for global roles  
+- Strengthening statistical foundations for analytical rigor
+- Deepening Business Analysis methodologies in SaaS-inspired cases
+- Advancing SQL and data modeling capabilities
+- Expanding multilingual communication for international environments
 
 ---
 
