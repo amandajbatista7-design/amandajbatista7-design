@@ -1,49 +1,41 @@
 # 👩‍💻 Amanda Batista — Data Analyst | Business Analyst
 
-Hi! I'm Amanda Batista, a Data Analyst / Business Analyst focused on transforming complex datasets into structured insights that support business and operational decision-making.
-I develop end-to-end analytics projects inspired by real-world business challenges, especially in tech, SaaS, and AI-driven environments.
+Hi! I'm Amanda Batista, a Data Analyst / Business Analyst focused on transforming data into cleas, actionable insights that support business decisions.
+I build end-to-end analytics projects inspired by real-world scenarios, especially in SaaS, business performance, and data-driven environments.
 
-🌍 Based in Brazil | Open to remote and international opportunities (relocation available) 
+🌍 Based in Brazil | Open to remote and international opportunities 
 
 ---
 
 ## 🚀 Professional Profile
 
-Data-driven professional with experience in analytics, data validation, and business problem structuring.
-My background includes large-scale public-sector datasets and interdisciplinary academic training, combined with portfolio projects that simulate real corporate scenarios — including SaaS churn analysis, ETL pipelines, BI dashboards, and cloud architecture proposals.
-I work across the full analytics lifecycle:
-- Data extraction and transformation
-- Data cleaning and validation
-- Exploratory data analysis (EDA)
+Data-driven professional with hands-on experience in:
+- Data analysis & dashboard development
 - KPI definition and performance tracking
-- Business problem structuring and root cause analysis
-- Dashboard development and stakeholder-oriented reporting
+- Business problem structuring
+- Data cleaning, validation, and transformation
+I work across the full analytics lifecycle, from raw data to business insights and decision support.
 
 ---
 
 ## 🔧 Technical Skills
 
-**Programming & Data**
+**📊 Analytics & Business Analysis**
+- KPI Definition & Performance Tracking
+- Exploratory Data Analysis (EDA)
+- Root Cause Analysis
+- Business Problem Structuring
+
+**💻 Data & Tools**
 - Python (pandas)
 - SQL (PostgreSQL / MySQL)
-- ETL pipeline development
-
-**Analytics & Business Analysis**
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Data Quality
-- KPI Framework Design
-- Root Cause Analysis
-- Business Requirements Structuring
-
-**BI & Visualization**
-- Power BI
 - Excel (Power Query, Pivot Tables, dashboards)
+- Power BI 
 
-**Tools & Technologies**
+**⚙️ Other**
 - Git & GitHub
 - APIs
 - Basic AWS Concepts
-- Jupyter Notebook
 
 ---
 
@@ -54,13 +46,15 @@ I work across the full analytics lifecycle:
 🔗 Repository: [View Project](https://github.com/amandajbatista7-design/AI_marketing_ETL_pipeline)
 
 **Overview:**  
-Designed and implemented an end-to-end ETL pipeline simulating enterprise-level customer data workflows.
+End-to-end ETL pipeline simulating real-world data workflows.
 
 **Key Contributions:**
 - Built an automated pipeline to extract, transform, and load customer data from CSV sources.
 - Implemented data cleaning, validation, and masking techniques to ensure data quality and privacy.
 - Integrated an AI API to generate personalized marketing messages based on customer attributes.
 - Simulated enterprise-level data governance and analytics workflows.
+  
+👉 Focus: Data pipelines, data quality, analytics workflows
 
 ---
 
@@ -69,26 +63,30 @@ Designed and implemented an end-to-end ETL pipeline simulating enterprise-level 
 🔗 Repository: [View Project](https://github.com/amandajbatista7-design/xbox-subscription-dashboard)
 
 **Overview:**  
-Developed an interactive business dashboard to analyze sales performance and support data-driven decision-making.
+Interactive dashboard designed to monitor sales performance and support decision-making.
 
 **Key Contributions:**
-- Automated data transformation and modeling using Power Query.
-- Designed KPIs and metrics to track sales trends and performance.
+- Build automated data transformations using Power Query.
+- Designed KPIs to track revenue and performance trends.
 - Built interactive visualizations to support business insights and stakeholder reporting.
+
+👉 Focus: Sales analytics, KPI tracking, reporting
 
 ---
 
-### 3️⃣ AWS Data Architecture Proposal
-**Technologies:** AWS (conceptual), Data Architecture  
-🔗 Repository: [View Project](https://github.com/amandajbatista7-design/aws-proposta-implementacao)
+### 3️⃣ Financial Scenario & Investment Dashboard
+**Technologies:** Excel  
+🔗 Repository: [View Project](https://github.com/amandajbatista7-design/fii-investment-simulator)
 
 **Overview:**  
-Created a conceptual data architecture proposal using AWS services to support scalable and cost-efficient data workflows.
+Simulation tool for long-term financial planning and scenario analysis.
 
 **Key Contributions:**
-- Designed an architecture combining three AWS services for data storage, processing, and analytics.
-- Focused on scalability, cost optimization, and data pipeline design.
-- Currently improving documentation and translating the project to English to align with international standards.
+- Modeled best, base, and worst-case scenarios.
+- Calculated portfolio growth and dividends.
+- Build an interactive dashboard with decision-support metrics.
+
+👉 Focus: Scenario analysis, forecasting, decision support
 
 ---
 
@@ -103,10 +101,10 @@ Created a conceptual data architecture proposal using AWS services to support sc
 
 ## 🌱 Currently Developing
 
-- Strengthening statistical foundations for analytical rigor
-- Deepening Business Analysis methodologies in SaaS-inspired cases
-- Advancing SQL and data modeling capabilities
-- Expanding multilingual communication for international environments
+- Product & SaaS analytics (user behavior, funnels)
+- Statistical analysis for business insights
+- Advanced SQL & data modeling
+- Web analytics (GA4 basics)
 
 ---
 
