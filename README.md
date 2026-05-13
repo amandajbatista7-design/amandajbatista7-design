@@ -1,92 +1,71 @@
-# 👩‍💻 Amanda Batista — Data Analyst | Business Analyst
+# 👩‍💻 Amanda Batista — Data Analyst
 
-Hi! I'm Amanda Batista, a Data Analyst / Business Analyst focused on transforming data into cleas, actionable insights that support business decisions.
-I build end-to-end analytics projects inspired by real-world scenarios, especially in SaaS, business performance, and data-driven environments.
+Data Analyst with a business mindset, focused on transforming raw data into clear, actionable insights that support real decisions. I build end-to-end analytics projects covering the full lifecycle — from data modeling and cleaning to dashboards and business recommendations.
 
-🌍 Based in Brazil | Open to remote and international opportunities 
-
----
-
-## 🚀 Professional Profile
-
-Data-driven professional with hands-on experience in:
-- Data analysis & dashboard development
-- KPI definition and performance tracking
-- Business problem structuring
-- Data cleaning, validation, and transformation
-I work across the full analytics lifecycle, from raw data to business insights and decision support.
+🌍 Based in Brazil | Open to remote and international opportunities
 
 ---
 
 ## 🔧 Technical Skills
 
-**📊 Analytics & Business Analysis**
-- KPI Definition & Performance Tracking
-- Exploratory Data Analysis (EDA)
-- Root Cause Analysis
-- Business Problem Structuring
+| Area | Tools |
+|---|---|
+| Query & Databases | SQL (PostgreSQL, MySQL) |
+| Visualization | Power BI, Excel (Pivot Tables, dashboards) |
+| Programming | Python (pandas) |
+| Data Preparation | Power Query, data cleaning, validation |
+| Workflow | Git & GitHub, APIs, basic AWS |
 
-**💻 Data & Tools**
-- Python (pandas)
-- SQL (PostgreSQL / MySQL)
-- Excel (Power Query, Pivot Tables, dashboards)
-- Power BI 
-
-**⚙️ Other**
-- Git & GitHub
-- APIs
-- Basic AWS Concepts
+**Core analytical skills:** Exploratory Data Analysis · KPI definition · 
+Cohort analysis · Business problem structuring · Root cause analysis
 
 ---
 
 ## 📌 Featured Projects
 
-### 1️⃣ AI-Powered Customer Data ETL Pipeline
-**Technologies:** Python, Pandas, ETL, API Integration  
-🔗 Repository: [View Project](https://github.com/amandajbatista7-design/AI_marketing_ETL_pipeline)
+### 🛒 [Olist E-commerce Analysis](https://github.com/amandajbatista7-design/olist-sql-analysis)
+`SQL` `PostgreSQL` `Power BI`
 
-**Overview:**  
-End-to-end ETL pipeline simulating real-world data workflows.
+End-to-end analysis of 100,000+ orders from a Brazilian e-commerce platform, covering revenue performance, customer retention, seller efficiency, and logistics — from raw data to business recommendations.
 
-**Key Contributions:**
-- Built an automated pipeline to extract, transform, and load customer data from CSV sources.
-- Implemented data cleaning, validation, and masking techniques to ensure data quality and privacy.
-- Integrated an AI API to generate personalized marketing messages based on customer attributes.
-- Simulated enterprise-level data governance and analytics workflows.
-  
-👉 Focus: Data pipelines, data quality, analytics workflows
+![Dashboard](https://raw.githubusercontent.com/amandajbatista7-design/olist-sql-analysis/main/dashboard.png)
 
----
+**Key findings:**
+- 97% of customers purchased only once — major retention opportunity
+- Clear correlation between delivery speed and customer satisfaction across all states
+- Black Friday 2017 nearly doubled monthly revenue — seasonal demand confirmed
+- Health & beauty leads revenue despite bed & bath having higher unit sales
 
-### 2️⃣ Sales Performance Dashboard
-**Technologies:** Excel, Power Query, Data Visualization  
-🔗 Repository: [View Project](https://github.com/amandajbatista7-design/xbox-subscription-dashboard)
-
-**Overview:**  
-Interactive dashboard designed to monitor sales performance and support decision-making.
-
-**Key Contributions:**
-- Build automated data transformations using Power Query.
-- Designed KPIs to track revenue and performance trends.
-- Built interactive visualizations to support business insights and stakeholder reporting.
-
-👉 Focus: Sales analytics, KPI tracking, reporting
+🔗 [Full write-up on Notion](https://iris-edam-ee9.notion.site/Olist-E-commerce-Analysis-SQL-Power-BI-35e634e4837e8026b54de49889e05086)
 
 ---
 
-### 3️⃣ Financial Scenario & Investment Dashboard
-**Technologies:** Excel  
-🔗 Repository: [View Project](https://github.com/amandajbatista7-design/fii-investment-simulator)
+### 🤖 [AI-Powered Customer Data ETL Pipeline](https://github.com/amandajbatista7-design/AI_marketing_ETL_pipeline)
+`Python` `Pandas` `ETL` `API Integration`
 
-**Overview:**  
-Simulation tool for long-term financial planning and scenario analysis.
+End-to-end ETL pipeline simulating real-world data workflows — extracting, 
+transforming, and loading customer data with automated cleaning, validation, 
+privacy masking, and AI-generated personalized marketing messages.
 
-**Key Contributions:**
-- Modeled best, base, and worst-case scenarios.
-- Calculated portfolio growth and dividends.
-- Build an interactive dashboard with decision-support metrics.
+**Focus:** Data pipelines · Data quality · Analytics workflows
 
-👉 Focus: Scenario analysis, forecasting, decision support
+---
+
+### 📊 [Sales Performance Dashboard](https://github.com/amandajbatista7-design/xbox-subscription-dashboard)
+`Excel` `Power Query` `Data Visualization`
+
+Interactive dashboard to monitor sales performance and support stakeholder reporting, with automated Power Query transformations and KPI tracking.
+
+**Focus:** Sales analytics · KPI tracking · Reporting
+
+---
+
+### 💰 [Financial Scenario & Investment Dashboard](https://github.com/amandajbatista7-design/fii-investment-simulator)
+`Excel`
+
+Simulation tool for long-term financial planning with best, base, and worst-case scenario modeling, portfolio growth calculation, and decision-support metrics.
+
+**Focus:** Scenario analysis · Forecasting · Decision support
 
 ---
 
@@ -101,14 +80,12 @@ Simulation tool for long-term financial planning and scenario analysis.
 
 ## 🌱 Currently Developing
 
-- Product & SaaS analytics (user behavior, funnels)
-- Statistical analysis for business insights
 - Advanced SQL & data modeling
-- Web analytics (GA4 basics)
+- Product & SaaS analytics (funnels, user behavior)
+- Statistical analysis for business insights
 
 ---
 
-## 📫 Contact
+## 📫 Let's connect
 
-- LinkedIn: https://www.linkedin.com/in/amandabat  
-- Email: amandajbatista7@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/amandabat) · amandajbatista7@gmail.com  
